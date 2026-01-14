@@ -27,7 +27,8 @@ A full-stack sentiment analysis application featuring a **fine-tuned DistilBERT 
 
 ## Tech Stack
 
-### Backend
+### Backend  
+
 - Python 3.8+
 - Flask (REST API)
 - HuggingFace Transformers (BERT/DistilBERT)
